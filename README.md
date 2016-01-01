@@ -2,7 +2,7 @@
 
 Features:
 
-*Can add users to list easy with open gene.txt
+*Can add users to list easy with open gene.txt<br>
 *tessss
 Install:
 
