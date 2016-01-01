@@ -3,7 +3,7 @@
 Features:
 
 *Can add users to list easy with open gene.txt
-*have captcha with the system...
+*have captcha with the system (Read more at INSTALL)
 *the visitors can check the users easy with the API checker..
 *All accounts with marked live in the checker saved in live.txt
 
