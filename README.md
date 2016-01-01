@@ -13,6 +13,6 @@
 *Change the site key for your site key it's for the captcha<br>
 *You only need to upload the files to your server<br>
 
-**You need bootstrap libraty
+**You need bootstrap lib
 
 
